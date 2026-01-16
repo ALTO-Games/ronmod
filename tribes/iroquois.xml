@@ -1,0 +1,25 @@
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by XMLSPY 5 Professional Ed. Release 2, Installed Multi for 15 users (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute -->
+<TRIBE name="Brallexians">
+	<LEADERS>
+		<LEADER>Brallex</LEADER>
+	</LEADERS>
+	<CITIES>
+		<CITY>Fort Brallexia</CITY>
+		<CITY>Brallex City</CITY>
+		<CITY>Bralfors</CITY>
+		<CITY>Bralopolis</CITY>
+		<CITY>Bralstad</CITY>
+		<CITY>Braltopia</CITY>
+		<CITY>Bralby</CITY>
+		<CITY>Bralstavik</CITY>
+		<CITY>Bralstahammar</CITY>
+		<CITY>Bralholm</CITY>
+		<CITY>Bralcentralen</CITY>
+		<CITY>Bralsta</CITY>
+		<CITY>Brallexia</CITY>
+	</CITIES>
+	<UNIT_CONTINENT>0 European</UNIT_CONTINENT>
+	<BUILD_CONTINENT>1 NEuro</BUILD_CONTINENT>
+	<BACKUP_BUILD_CONTINENT>0 Med</BACKUP_BUILD_CONTINENT>
+</TRIBE>
